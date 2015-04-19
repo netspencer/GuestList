@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    coreaudio (0.0.11)
+      narray (~> 0.6.0.0)
+    logger (1.2.8)
+    narray (0.6.0.9)
+    rake (10.4.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  coreaudio
+  logger
+  rake
